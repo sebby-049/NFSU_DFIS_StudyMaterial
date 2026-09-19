@@ -31,14 +31,11 @@ cd NFSU_DFIS_StudyMaterial
 
 ## 👨‍💻 Maintainers
 
-**Neel Varia**  
-GitHub: https://github.com/neelvaria  
-Email: neelvaria89@gmail.com
-
 **Harsh Ahuja**  
 Github: https://github.com/sebby-049  
 Email: harshahuja320@gmail.com  
 
+Credits to https://github.com/neelvaria  
 ---
 
 
